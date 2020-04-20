@@ -1,15 +1,3 @@
-<head>
-  <style>
-    body {
-      font-family: arial;
-    }
-  </style>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/a11y-dark.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
-  <script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/go.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script>
-</head>
-
 # Javascript (+ some HTML) reference
 
 ## Code and comments
