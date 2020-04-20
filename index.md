@@ -82,7 +82,7 @@ console.log(animalGreeting); // hello cat.
 
 - A boolean is a value that can be either true or false.
 - It is named after boolean algebra, invented by George Boole.
-- Booleans can be combined with operators, && (AND), || (OR) and ! (NOT).
+- Booleans can be combined with operators, `&&` (AND), `||` (OR) and `!` (NOT).
 - Numbers and strings can use the === (equals), !== (not equals), < (less than), <= (less than or equal to), > (greater than), and >= (greater than or equal to) operators to produce booleans.
 
 ```javascript
